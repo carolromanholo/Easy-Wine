@@ -6,7 +6,7 @@ Bem-vindo ao EasyWine, seu companheiro perfeito para descobrir e receber seus vi
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/carolromanholo/Easy-Wine-app.git
+   git clone https://github.com/carolromanholo/Easy-Wine.git
    ```
 
 2. **Instale as Dependências:**
